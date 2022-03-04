@@ -1,3 +1,5 @@
 Just a test file that i was told to make. new
 
 This line of text represent a release of our code at version 1.0.0.
+
+Started working on new feature.
